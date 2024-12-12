@@ -1,2 +1,2 @@
-# ic
+# intermediate coding
 c programs 
